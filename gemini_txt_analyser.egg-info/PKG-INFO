@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: gemini_txt_analyser
+Version: 1
+Summary: This package contains implementation of a ".txt" file analyser with Google Gemini AI integrated into it.
+Home-page: https://github.com/SoftwareApkDev/gemini_txt_analyser
+Author: SoftwareApkDev
+Author-email: softwareapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: gemini_ai_app_downloader
+
 # gemini_txt_analyser
 
 **Gemini TXT Analyser** is an application used to analyse ".txt" files with Google Gemini AI integrated into it.
